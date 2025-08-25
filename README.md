@@ -1,4 +1,4 @@
-# Landing Page para Psicólogo - Template 1
+# Landing Page para Psicólogo
 
 Uma landing page moderna e responsiva desenvolvida especificamente para psicólogos, utilizando HTML semântico, CSS3, JavaScript e Bootstrap 5.
 
